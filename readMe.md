@@ -5,7 +5,7 @@ These accounts last ages, can send DMs right away, and are **completely undetect
 
 **No physical devices of any kind are required**, just internet connection and a [good residential proxy service](https://proxi.sh/).
 
-Obviously, the **full source code has been ommited,** only leaving enough to proof it's legitamacy, but keep all reverse engineering based logic private.
+Obviously, the **full source code has been ommited,** only leaving enough to proof it's legitamacy, but keep all reverse engineering based logic private.\n
 **400** stars and I publish the attestations.
 
 ## Want to become a Reverse Engineer?
