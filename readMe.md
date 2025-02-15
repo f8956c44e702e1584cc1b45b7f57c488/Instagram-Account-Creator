@@ -7,6 +7,10 @@ These accounts last ages, can send DMs right away, and are **completely undetect
 
 Obviously, the **full source code has been ommited,** only leaving enough to proof it's legitamacy, but keep all reverse engineering based logic private.
 
+## Want to become a Reverse Engineer?
+
+Check out my [Reverse Engineering Course](https://reverser-academy.com), where we teach how to Reverse Engineer both *web and mobile apps**, like **hCaptcha**, TikTok, Instagram, Arkose Labs' Funcaptcha, and more.
+
 ## Attestations Reversed
 
 - Android Keystore
@@ -31,9 +35,5 @@ As far as Instagram and Google are concerned, these accounts are completely **id
 - Set Password
 
 100% customizable, 100% unflagged.
-
-## Want to become a Reverse Engineer?
-
-Check out my [Reverse Engineering Course](https://reverser-academy.com), where we teach how to Reverse Engineer both *web and mobile apps**, like **hCaptcha**, TikTok, Instagram, Arkose Labs' Funcaptcha, and more.
 
 Contact me on [Telegram](https://t.me/f8956c44e702e1584cc1b45b7f57c488) for inquries.
