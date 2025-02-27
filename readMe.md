@@ -8,6 +8,8 @@ These accounts last ages, can send DMs right away, and are **completely undetect
 Obviously, the **full source code has been ommited,** only leaving enough to proof it's legitamacy, but keep all reverse engineering based logic private.
 **400** stars and I publish the attestations.
 
+Do not ask to purchase the account creator, or any component of it. It is not for sale.
+
 ## Want to become a Reverse Engineer?
 
 Check out my [Reverse Engineering Course](https://reverser-academy.com), where we teach how to Reverse Engineer both *web and mobile apps**, like **hCaptcha**, TikTok, Instagram, Arkose Labs' Funcaptcha, and more.
